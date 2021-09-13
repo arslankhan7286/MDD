@@ -1,0 +1,14 @@
+com/mddawsome/ReactNativeFlipper.java
+ com.mddawsome.ReactNativeFlipper
+ com.mddawsome.ReactNativeFlipper$1
+ com.mddawsome.ReactNativeFlipper$2
+ com.mddawsome.ReactNativeFlipper$2$1
+com/mddawsome/MainActivity.java
+ com.mddawsome.MainActivity
+com/mddawsome/BuildConfig.java
+ com.mddawsome.BuildConfig
+com/mddawsome/MainApplication.java
+ com.mddawsome.MainApplication
+ com.mddawsome.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
